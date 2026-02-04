@@ -1,4 +1,4 @@
-<img width="1047" height="847" alt="Ornek" src="https://github.com/user-attachments/assets/1e6bed44-d299-4e7a-8ff3-c7c11ca60525" /># 🍕 Pizza Sipariş Uygulaması UI
+# 🍕 Pizza Sipariş Uygulaması UI
 
 Bu proje, **Ankara Üniversitesi Yazılım Mühendisliği** 1. sınıf öğrencisi olarak Flutter ile geliştirdiğim ilk mobil arayüz çalışmasıdır. Modern tasarım prensipleri ve kullanıcı deneyimi (UX) odaklı bir yapı sunar.
 
